@@ -16,7 +16,7 @@
 terraform apply
 ```
 
-# confirm everything provisioned do cleanup
+# step: 4 confirm everything provisioned do cleanup
 
 ```
 terraform destroy
